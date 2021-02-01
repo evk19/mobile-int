@@ -1,4 +1,4 @@
-# mobile-int
+# Movie App
 
 API: http://www.omdbapi.com
 
