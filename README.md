@@ -2,6 +2,8 @@
 
 API: http://www.omdbapi.com
 
+![giphy](https://user-images.githubusercontent.com/17887420/106510601-3637a380-64e0-11eb-9513-5fc77864864c.gif)
+
 Первая установка Ionic:
 * `npm install -g @ionic/cli`
 * `npm i`
@@ -11,4 +13,4 @@ API: http://www.omdbapi.com
 * `npm i`
 * `ionic lab`
 
-![giphy](https://user-images.githubusercontent.com/17887420/106510601-3637a380-64e0-11eb-9513-5fc77864864c.gif)
+
