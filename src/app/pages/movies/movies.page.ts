@@ -19,10 +19,6 @@ export class MoviesPage implements OnInit {
   }
   searchChanged(){
     this.results = this.movieService.searchData(this.searchTerm, this.type);
-    
-    //     this.results.subscribe(res => {
-
-    // })
   }
 
 }
